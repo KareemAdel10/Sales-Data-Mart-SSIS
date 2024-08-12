@@ -25,4 +25,5 @@ To use this project, follow these steps:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### Acknowledgments
+I took one of Et3lm Online's projects as a reference for this project.
 This project was developed using the AdventureWorks2014 database and SQL Server Integration Services (SSIS).
